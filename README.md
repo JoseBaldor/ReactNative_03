@@ -1,2 +1,2 @@
 # ReactNative_02
-Estilos para la APP
+Continuación de Estilos para la APP
